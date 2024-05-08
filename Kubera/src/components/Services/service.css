@@ -1,0 +1,44 @@
+
+
+.service-container{
+    margin-top:100px;
+    width: 100%;
+    /* align-items: center; */
+   
+}
+.service-Img{
+    width:50%;
+
+}
+
+.Img{
+   margin: 50px 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.service-detail{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center
+}
+h1{
+    color: goldenrod;
+}
+.ul-list{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+li{
+    margin-top: 50px;
+    font-size: 24px;
+}
+
+
+
